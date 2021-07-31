@@ -1,1 +1,1 @@
-## Questions pool
+# Fast Test
